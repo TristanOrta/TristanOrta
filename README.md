@@ -14,7 +14,7 @@ Apasionado por el desarrollo de software, la automatización de procesos, el an�
 
 💼 Analista de Sistemas
 
-💻 Desarrollo aplicaciones con C#, .NET, SQL Server, Oracle y Python.
+💻 Desarrollo aplicaciones con C#, .NET, SQL Server, Oracle, Python y Powerbuilder.
 
 📊 Me interesa el análisis de datos, ETL, Power BI y Machine Learning.
 
